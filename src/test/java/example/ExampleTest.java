@@ -11,6 +11,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 public class ExampleTest {
 	@Test
 	public void testName() throws Exception {
-		assertThat(1 , equalTo(5));
-	}
+		assertThat(1, equalTo(5));  
+	} 
 }
